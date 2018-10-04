@@ -1,3 +1,7 @@
+Discontinued
+============
+This repository is no longer actively maintained. Please take a look at the [original repo](https://github.com/select2/select2).
+
 Select2
 =======
 
@@ -66,7 +70,7 @@ Have a question? Ask on our mailing list!
 
 select2@googlegroups.com
 
-https://groups.google.com/d/forum/select2
+https://groups.google.com/d/forum/select2XXX
 
 
 Copyright and license
